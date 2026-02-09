@@ -1,0 +1,13 @@
+# Carpetas de compilación y salida
+target/
+build/
+dist/
+
+# Configuración privada de NetBeans (Rutas de tu PC)
+nbproject/private/
+nbpython_debug/
+
+# Archivos de configuración local (Opcional pero recomendado)
+nbproject/project.properties
+nbproject/project.xml
+*.log
