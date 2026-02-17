@@ -16,3 +16,4 @@ Como perfil híbrido en **ADE e Ingeniería**, este proyecto no solo se enfoca e
 ## 🛠️ Instalación rápida
 1. Clonar: `git clone https://github.com/DavidGarciaCalvo/WebApp-Inmobiliaria-JavaScript.git`
 2. Desplegar en un servidor de aplicaciones compatible con Java (como Apache Tomcat).
+3. Importar el script database.sql incluido en el repositorio.
